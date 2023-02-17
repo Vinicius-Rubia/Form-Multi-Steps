@@ -1,46 +1,45 @@
-# Getting Started with Create React App
+# Formulário Multisteps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto é um formulário separado por passos para melhor usabilidade do usuário ao submtê-lo.
 
-## Available Scripts
 
-In the project directory, you can run:
+Você pode ver o projeto funcionado aqui: [Form-Multistep](https://form-multisteps-dev.vercel.app/)
 
-### `npm start`
+## Layout
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![layout](./layout.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## 🚀 Começando
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Pra começar, primeiro clone o repositório do projeto pra sua máquina
 
-### `npm run build`
+```
+$ git clone https://github.com/Vinicius-Rubia/Form-Multi-Steps.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚙️ Iniciando o Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para iniciar, execute os seguintes comandos em seu terminal:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+$ cd Form-Multi-Steps -> Mudar para o diretório do projeto
+```
 
-### `npm run eject`
+```
+$ npm install -> Instalar todas as dependências
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+ou então...
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+$ yarn -> Instalar todas as dependências
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+$ npm start -> Iniciar o projeto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+ou então...
 
-## Learn More
+$ yarn start -> Iniciar o projeto
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+⌨️ com ❤️ por [Vinicius Rubia](https://github.com/Vinicius-Rubia) 😊
